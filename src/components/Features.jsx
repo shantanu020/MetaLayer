@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { useState } from "react"
 import { useRef } from "react";
 import { TiLocationArrow } from "react-icons/ti"
